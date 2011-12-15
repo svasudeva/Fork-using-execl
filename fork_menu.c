@@ -1,3 +1,8 @@
+/*********************************************************/
+/*	Project to create parent-child process		*/
+/*	using fork.					*/
+/*      Commands tested are kill, sleep, wait and list. */
+/******************************************************/
 #include<stdio.h>
 #include<string.h>
 //#include<wait.h>
