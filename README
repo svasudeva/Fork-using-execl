@@ -1,1 +1,2 @@
-Child process created using execl!
+Approach 1: Child process created using execl!
+Approach 2: Fork performed using fork command and added logic for wait,kill,sleep and list all child processes created.
